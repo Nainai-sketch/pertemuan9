@@ -9,3 +9,5 @@ for (i in 1:n){
   else
     status<-append(status,'rendah')
 }
+
+hist(mtcars$mpg)
