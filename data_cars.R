@@ -11,3 +11,4 @@ for (i in 1:n){
 }
 
 hist(mtcars$mpg)
+boxplot(mtcars$mpg)
